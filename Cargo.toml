@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "crates/clipboard-crypto",
+    "src-tauri",
+]
+resolver = "2"

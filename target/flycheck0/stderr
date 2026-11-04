@@ -1,0 +1,4 @@
+warning: profiles for the non root package will be ignored, specify profiles at the workspace root:
+package:   C:\dev\clipboard-sync\src-tauri\Cargo.toml
+workspace: C:\dev\clipboard-sync\Cargo.toml
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 10.21s
